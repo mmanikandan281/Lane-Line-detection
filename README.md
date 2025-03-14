@@ -2,17 +2,9 @@
 
 This project detects lane lines in road images using Python and OpenCV. The algorithm identifies lane boundaries to assist autonomous vehicles in navigation.
 
-## Table of Contents
+![Screenshot (71)](https://github.com/user-attachments/assets/25d5812d-7bfa-4292-bc1f-e96549214287)
 
-- [Overview](#overview)
-- [Installation](#installation)
-- [Pipeline Steps](#pipeline-steps)
-- [Results](#results)
-- [Challenges and Improvements](#challenges-and-improvements)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
-- [Colab Notebook](#colab-notebook)
+
 
 ## Overview
 
