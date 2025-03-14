@@ -22,8 +22,7 @@ Lane detection is crucial for autonomous vehicles to understand road boundaries 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/lane-detection.git
-   cd lane-detection
+   git clone https://github.com/mmanikandan281/Lane-Line-detection.git
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
